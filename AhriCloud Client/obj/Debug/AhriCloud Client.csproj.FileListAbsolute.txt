@@ -1,0 +1,9 @@
+c:\users\ahrifox950\documents\visual studio 2013\Projects\AhriCloud Client\AhriCloud Client\bin\Debug\AhriCloud Client.exe.config
+c:\users\ahrifox950\documents\visual studio 2013\Projects\AhriCloud Client\AhriCloud Client\bin\Debug\AhriCloud Client.exe
+c:\users\ahrifox950\documents\visual studio 2013\Projects\AhriCloud Client\AhriCloud Client\bin\Debug\AhriCloud Client.pdb
+c:\users\ahrifox950\documents\visual studio 2013\Projects\AhriCloud Client\AhriCloud Client\obj\Debug\AhriCloud Client.csprojResolveAssemblyReference.cache
+c:\users\ahrifox950\documents\visual studio 2013\Projects\AhriCloud Client\AhriCloud Client\obj\Debug\AhriCloud_Client.Form1.resources
+c:\users\ahrifox950\documents\visual studio 2013\Projects\AhriCloud Client\AhriCloud Client\obj\Debug\AhriCloud_Client.Properties.Resources.resources
+c:\users\ahrifox950\documents\visual studio 2013\Projects\AhriCloud Client\AhriCloud Client\obj\Debug\AhriCloud Client.csproj.GenerateResource.Cache
+c:\users\ahrifox950\documents\visual studio 2013\Projects\AhriCloud Client\AhriCloud Client\obj\Debug\AhriCloud Client.exe
+c:\users\ahrifox950\documents\visual studio 2013\Projects\AhriCloud Client\AhriCloud Client\obj\Debug\AhriCloud Client.pdb
