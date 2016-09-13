@@ -1,5 +1,5 @@
 c:\users\ahrifox950\documents\visual studio 2013\Projects\AhriCloud Client\Log\obj\Debug\Log.csprojResolveAssemblyReference.cache
-c:\users\ahrifox950\documents\visual studio 2013\Projects\AhriCloud Client\Log\bin\Debug\Log.dll
 c:\users\ahrifox950\documents\visual studio 2013\Projects\AhriCloud Client\Log\bin\Debug\Log.pdb
 c:\users\ahrifox950\documents\visual studio 2013\Projects\AhriCloud Client\Log\obj\Debug\Log.dll
 c:\users\ahrifox950\documents\visual studio 2013\Projects\AhriCloud Client\Log\obj\Debug\Log.pdb
+c:\users\ahrifox950\documents\visual studio 2013\Projects\AhriCloud Client\Log\bin\Debug\Log.dll
